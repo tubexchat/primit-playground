@@ -1,11 +1,9 @@
-# primit-playground
-
-# 📊 primit-quant-playground
+# 📊 Primit Quant Playground
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-green.svg)](https://python.org)
 
-`primit-quant-playground` 是由 **primit 大地区中心** 官方推出的开源量化投资与数据科学实战演练场。
+Primit-quant-playground 是由 **Primit数据中心** 官方推出的开源量化投资与数据科学实战演练场。
 
 本项目旨在为量化爱好者、数据科学家及金融从业者提供一条“从海量市场数据到自动化交易策略”的完整闭环路径。通过丰富的 Jupyter Notebook 教程与模块化代码，你将学会如何无缝对接 primit 高性能金融 API，并在此基础上进行指标计算、机器学习建模、因子挖掘与策略回测。
 
